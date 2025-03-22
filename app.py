@@ -11,7 +11,7 @@ from langchain_ibm import WatsonxLLM
 from ibm_watsonx_ai import APIClient
 # Watsonx API Credentials
 creds = {
-    "api_key": "lk45Qewkx5-ULF8nHR74qvqKqGHECcLgS1LFwST41jPJ",
+    "api_key": "MY API KEY",
     "url": "https://jp-tok.ml.cloud.ibm.com",
 }
 
